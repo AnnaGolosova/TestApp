@@ -8,3 +8,7 @@
 /TestApp/TestApp.Android/bin/Debug
 /TestApp/TestApp.Android/obj
 /TestApp/TestApp.iOS/obj
+/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug
+/UITest/bin/Debug
+/UITest/obj
+*.user
