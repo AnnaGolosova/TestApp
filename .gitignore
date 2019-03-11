@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TestApp/v15
+/TestApp/TestApp/bin/Debug/netstandard2.0
+/TestApp/TestApp/obj
+/TestApp/TestApp.Android/bin/Debug
+/TestApp/TestApp.Android/obj
+/TestApp/TestApp.iOS/obj
